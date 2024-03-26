@@ -1,0 +1,82 @@
+{
+    "Projects": [
+      {
+        "id": 1,
+        "title": "Foodie ",
+        "slug": "Full Stack",
+        "description": "A Full Stack MERN Web Application for Online Food ordering with a variety of functionalities,user-friendly, Integrated Chatbot using Langchain, Admin Dashboard, etc..",
+        "Year": 2023,
+       
+        "isFeatured": true,
+        "image": "/projects/foodie.jpg" ,
+        "url":""
+      },
+      {
+        "id": 2,
+        "title": "Image-Stego ",
+        "slug": "Python",
+        "description": "A Python Script for Data encryption and Image steganography using novel hybrid Algorithm",
+        "Year": 2023,
+       
+        "isFeatured": true,
+        "image": "/projects/stego.jpg" ,
+        "url":""
+      },
+      {
+        "id": 3,
+        "title": "Ponzi Scheme ",
+        "slug": "Blockchain",
+        "description": "Analysis of various user-end vulnerablities in the smart Contract and a deep learning model for the detection of Ponzi Scheme in the smart Contract",
+        "Year": 2024,
+       
+        "isFeatured": true,
+        "image": "/projects/ponzi.jpg",
+        "url":""
+      },
+      {
+        "id": 4,
+        "title": "Customer Retention Analysis ",
+        "slug": "Machine Learning",
+        "description": "Features Analysis and Data visualization of customer retention dataset and comparative analysis of various ML nodels for the prediction ",
+        "Year": 2023,
+       
+        "isFeatured": true,
+        "image": "/projects/customer.jpg" ,
+        "url":""
+      },
+      {
+        "id": 5,
+        "title": "Algo-Visualizer ",
+        "slug": "C++",
+        "description": "Algorithm Visualizer for various sorting algorithms in C++ using Raylib Graphics Library",
+        "Year": 2022,
+       
+        "isFeatured": true,
+        "image": "/Projects/algo.jpg",
+        "url":"" 
+      },
+      {
+        "id": 6,
+        "title": "B-TECH Learning Website ",
+        "slug": "Web",
+        "description": "A Website for Btech Students providing Links and resources for their Prepration. Build using Pure HTML,CSS,PHP and SQL",
+        "Year": 2022,
+       
+        "isFeatured": false,
+        "image": "/Projects/btech.jpg",
+        "url":"" 
+      },
+      {
+        "id": 7,
+        "title": "Movie-Recommender ",
+        "slug": "ML",
+        "description": "Machine Learning Model for movies recommendation  ",
+        "Year": 2022,
+       
+        "isFeatured": false,
+        "image": "/Projects/movie.png",
+        "url":""
+      }
+    ]
+  }
+  
